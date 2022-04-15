@@ -3185,6 +3185,7 @@ INSTALLED_APPS = [
     'openedx.features.discounts',
     'openedx.features.effort_estimation',
     'openedx.features.name_affirmation_api.apps.NameAffirmationApiConfig',
+    'openedx.features.greeting_app',
 
     'lms.djangoapps.experiments',
 
