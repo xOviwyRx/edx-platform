@@ -1042,5 +1042,5 @@ urlpatterns += [
 ]
 
 urlpatterns += [
-    path('greeting/', include('openedx.features.greeting_app'))
+    path('greeting_app/', include('openedx.core.djangoapps.greeting.urls'))
 ]

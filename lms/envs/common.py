@@ -2977,6 +2977,7 @@ INSTALLED_APPS = [
     'openedx.core.djangoapps.video_pipeline',
 
     # Our courseware
+    'openedx.core.djangoapps.greeting',
     'lms.djangoapps.courseware',
     'lms.djangoapps.coursewarehistoryextended',
     'common.djangoapps.student.apps.StudentConfig',
